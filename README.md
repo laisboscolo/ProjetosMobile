@@ -22,7 +22,7 @@ Um aplicativo de uma pizzaria fictícia, composto por três telas:
 * O outro leva à Tela 3, com a localização da pizzaria.
 
 
-tela 1 
+Tela 1 
 ![Projeto3Telas1](https://github.com/user-attachments/assets/761a1c65-e2eb-4fae-9e93-5c69599638e8)
 
 Tela 2
