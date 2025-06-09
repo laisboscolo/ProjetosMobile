@@ -31,18 +31,30 @@ Tela 2
 Tela 3
 ![Projeto3Tela3](https://github.com/user-attachments/assets/04324036-9c7b-4c58-b6e4-c53dfbcb48b9)
 
-## 4 - Notificação
-![Projeto4Notificacao](https://github.com/user-attachments/assets/d76c2bd0-ffb8-4fb9-abed-92726b4ae3bd)
-
+## Projeto 4 - Notificação
 Um aplicativo para cadastro de produtos, que realiza validação de campos:
 
 Caso algum campo não seja preenchido, exibe uma notifição pop-up solicitando o preenchimento de todos os campos obrigatórios.
 
 Ao preencher corretamente, exibe uma notificação pop-up de sucesso, confirmando que o produto foi cadastrado.
 
+![Projeto4Notificacao](https://github.com/user-attachments/assets/d76c2bd0-ffb8-4fb9-abed-92726b4ae3bd)
 
+## Projeto 5 - Telas2 (4 telas) 
+Como forma de desafio pessoal, desenvolvi um novo projeto utilizando a plataforma Kondular, focado na criação e navegação entre quatro telas distintas. O principal objetivo foi praticar a estrutura de múltiplas telas e a funcionalidade de navegação fluida entre elas.
 
- 
+Funcionalidades:
+* O aplicativo é composto por 4 telas interativas.
+
+* Cada tela possui um botão para voltar à tela inicial, permitindo que o usuário retorne facilmente ao ponto de partida do app a qualquer momento.
+
+* A navegação foi pensada para ser clara e intuitiva, reforçando a experiência do usuário com transições simples.
+
+Tela 1 (geral)
+![Screenshot_2025-06-09-13-51-25-704_io makeroid companion](https://github.com/user-attachments/assets/4e559f3d-0a15-4beb-900f-5646324c0b07)
+
+Tela 2 (após apertar o botâo ""
+![Screenshot_2025-06-09-13-51-33-213_io makeroid companion](https://github.com/user-attachments/assets/3da6356c-4263-4f8d-a8a5-d1ff6284d53d)
 
 
 
