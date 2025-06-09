@@ -41,7 +41,7 @@ Ao preencher corretamente, exibe uma notificação pop-up de sucesso, confirmand
 ![Projeto4Notificacao](https://github.com/user-attachments/assets/d76c2bd0-ffb8-4fb9-abed-92726b4ae3bd)
 
 ## Projeto 5 - Telas2 (4 telas) 
-Como forma de desafio pessoal, desenvolvi um novo projeto utilizando a plataforma Kondular, focado na criação e navegação entre quatro telas distintas. O principal objetivo foi praticar a estrutura de múltiplas telas e a funcionalidade de navegação fluida entre elas.
+Como forma de desafio passado pelo professor, desenvolvi um novo projeto utilizando a plataforma Kondular, focado na criação e navegação entre quatro telas distintas. O principal objetivo foi praticar a estrutura de múltiplas telas e a funcionalidade de navegação fluida entre elas.
 
 Funcionalidades:
 * O aplicativo é composto por 4 telas interativas.
