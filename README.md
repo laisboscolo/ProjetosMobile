@@ -51,10 +51,19 @@ Funcionalidades:
 * A navegação foi pensada para ser clara e intuitiva, reforçando a experiência do usuário com transições simples.
 
 Tela 1 (geral)
-![Screenshot_2025-06-09-13-51-25-704_io makeroid companion](https://github.com/user-attachments/assets/4e559f3d-0a15-4beb-900f-5646324c0b07)
+![image](https://github.com/user-attachments/assets/bf832a46-e7a8-4f55-9491-2af3c597c0ff)
 
-Tela 2 (após apertar o botâo ""
-![Screenshot_2025-06-09-13-51-33-213_io makeroid companion](https://github.com/user-attachments/assets/3da6356c-4263-4f8d-a8a5-d1ff6284d53d)
+Tela 2 (após apertar o botâo "ir a esquerda")
+![image](https://github.com/user-attachments/assets/5a96e61a-d6a0-4568-b7ad-a681db4be527)
+
+Tela 3 (após apertar o botâo "ir a direita")
+![image](https://github.com/user-attachments/assets/b255234e-2cb9-4cd6-926c-5e9e6511a3b5)
+
+Tela 4 (após apertar o botâo "ligar a luz")
+![image](https://github.com/user-attachments/assets/2a71c1b6-9cf1-4300-a454-20315f12edf5)
+
+
+
 
 
 
